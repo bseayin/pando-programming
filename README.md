@@ -3,7 +3,7 @@
 #### 作者介绍
 > 你好，我是[《Java Web 项目开发案例实战—Spring Boot+Mybatis+Hibernate+Spring Cloud》](https://blog.csdn.net/h356363/article/details/122229485) 图书作者，当当，京东，淘宝，新华书店都可以找到这本书。
 
-![输入图片说明](mybook.png)
+![输入图片说明](https://github.com/bseayin/pando-programming/blob/main/mybook.png)
 
 - 个人博客地址：https://blog.csdn.net/h356363?type=blog
 
@@ -11,7 +11,7 @@
 
 - 个人公众号：
 
-![输入图片说明](20210109183557995.jpg)
+![输入图片说明](https://github.com/bseayin/pando-programming/blob/main/20210109183557995.jpg)
 
 #### 项目介绍
 把本人学习的笔记和源码都集中到这个项目中，方便自己，也方便大家快速查看。
